@@ -1,0 +1,45 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\audience-stage.md": "ae11c2fdede5b08824263b8a1c92ec2fe1fe1ffc31a7a14d4d2dfd12c8ed683a",
+    "references\\capabilities\\brand-check.md": "ef259cd46bac00351dfcd1c88682043a335e21f971bc7962b629b3f27489f139",
+    "references\\capabilities\\capacity-allocation.md": "30d76755b62e4cc753418b3b036ae51d9733035a5cc7edc3db7fb5cd8cea27c6",
+    "references\\capabilities\\creative-feedback.md": "4d6cc6d1ea122e9dad54a4fa348623ac46fcb3b7e72727b25f0895bf20ddd168",
+    "references\\capabilities\\cs-review.md": "cfd6c3c906d9ab1664d008d08d947ffdff1ed704294cc0f3f843ab2cbde4b00a",
+    "references\\capabilities\\knowledge-reuse.md": "b495fa4ba6c042792e398e8eb7a77b67b1aa0f55805aa22cf9984c87896999dd",
+    "references\\capabilities\\script-production.md": "f7b3833f4956367113c34d5fb8f0055cb6fc3396e277eb0e322be6607d71bfcb",
+    "references\\capabilities\\video-handoff.md": "8dd677fc45de7f8c89b8b92a53ea27f00256343c263a45a8a70e54ee9046748f",
+    "references\\capabilities\\workflow-pilot.md": "6c4b7318040d2349481dfc235305c8fc6033468b8b2aee7f13dce4cb14dddcd3",
+    "references\\capability-index.md": "89fa2a97c718e6ac77d30eb72d9e076b649faed743c0e405698a3f8534324797",
+    "references\\cheatsheet.md": "5fdc9aa171a3b5b3c915b86ecd04b118df0afee6ca5de34f6da8538c0f5b7aae",
+    "references\\glossary.md": "7911b7af4dbbb8979d341208ae80b12ffbbd32cfac27d7fc14d4937c9bac32ce",
+    "references\\overview.md": "35e050d1889384ea5f48684822bfe876bc6c7ec76565ee07e545703edbb1059c",
+    "resources\\creative-formats.md": "194842e691317803a6833a1cc9938f4ab05a4c3da8f211c80f2fb432de9bf8c9",
+    "resources\\legacy-framework.md": "c3ca45e980d4928a556e7ef58f68519fc3f33d1ad071f9498617ffd0aed1271c",
+    "resources\\report-audit.md": "62c621b8b3f87457f144aba99bc3725e5d1811e47786e367a47cbbc0962dc29c",
+    "resources\\sources.md": "635c1d8b7e3472c40eb559ef67e00b1d2b1b9cf6c1cd1a2a892d43ceaeb3a967",
+    "resources\\supplier-review.md": "4e9f30a432f7744bb7f467bfa5b68d3b4f44e385d835af5f936d61bbeca3b88a",
+    "resources\\viewpoint-map.md": "b047b270042cb4b82cb9465c1ca116e7b7be280ba746d89635c8f538a60c714b",
+    "SKILL.md": "4fee4d7902b769998298e2682b87a12c103b7316b23e57a43e4f542b5cd36abd"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.wang-zhongzhao",
+  "bundle_sha256": "d407b4a2cad4e15be930dcee21e8853712019bde24a95421db1f55ffd1f6483a",
+  "variant": "single",
+  "run_id": "run-20260916-144150-f7f189",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 2,
+    "promoted_count": 0,
+    "capability_count": 9,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
